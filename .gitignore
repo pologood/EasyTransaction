@@ -2,6 +2,7 @@ server_back.properties
 *.class
 *.log
 *.log.*
+.factorypath
 /target/*
 /.settings/*
 /bin/*
@@ -9,3 +10,5 @@ server_back.properties
 /.classpath
 /logs
 /target/
+.DS_Store
+.flattened-pom.xml
